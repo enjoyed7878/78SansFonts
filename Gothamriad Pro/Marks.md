@@ -1,4 +1,4 @@
-*Features and Kerning*
+**Features and Kerning**
 - Export OpenType features: Always compile features code
 - OpenType kerning: Do not create [kern] code
 - OpenType mark attachment: Always create [mark/mkmk] code
