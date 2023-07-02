@@ -5,3 +5,6 @@
 - Export legacy TrueType kerning -
 - Max legacy TrueType kerning pairs 0
 - Legacy kerning only for encoded glyphs
+
+**Marks**
+В̈ в̈  К̈ к̈  Л̈ л̈  М̈ м̈
